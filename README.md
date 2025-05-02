@@ -20,7 +20,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 1. **Cloner le projet :**
    ```bash
-   git clone https://github.com/OlympBlack/AAWT-Groupe2.git
+   git clone https://github.com/OlympBlack/MySchoolManager.git
    ```
 2. **Accéder au dossier du projet :**
    ```bash
